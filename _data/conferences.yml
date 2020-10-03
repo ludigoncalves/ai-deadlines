@@ -26,6 +26,17 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on September 28, 2020. More info
     <a href=''https://iclr.cc/Conferences/2021/CallForPapers''>here</a>.'
 
+- title: IJCNN
+  hindex: 36
+  year: 2020
+  id: ijcnn20
+  link: https://wcci2020.org/
+  deadline: '2020-01-15 23:59:59'
+  timezone: UTC
+  date: July 19-24, 2020
+  place: Glasgow, United Kingdom
+  sub: ML
+  
 - title: EACL
   hindex: 36
   year: 2021
